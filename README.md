@@ -1,6 +1,7 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 # Mi Card
+![WhatsApp Image 2022-08-21 at 7 27 38 PM](https://user-images.githubusercontent.com/79635843/185794575-e17cbc11-e721-4183-9b44-6984bf79d9a8.jpeg)
 
 ## Our Goal
 
